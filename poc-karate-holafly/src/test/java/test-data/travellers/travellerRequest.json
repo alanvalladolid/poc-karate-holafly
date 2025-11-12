@@ -1,0 +1,10 @@
+      {
+        "email": "alan.valladolid@test.com",
+        "tenant_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "external_id": "ext_1234",
+        "name": "Alan",
+        "last_name": "Valladolid",
+        "phone": "+34322435465",
+        "country": "ESP",
+        "preferred_language": "es"
+      }

@@ -1,0 +1,14 @@
+{
+  "id": "#uuid",
+  "deleted_at": "#ignore",
+  "external_id": "#string",
+  "name": "#string",
+  "last_name": "#string",
+  "email": "#regex .+@.+\\..+",
+  "phone": "#string",
+  "country": "#string",
+  "preferred_language": "#string",
+  "tenant_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "created_at": "#string",
+  "updated_at": "#ignore"
+}

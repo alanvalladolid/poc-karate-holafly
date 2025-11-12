@@ -1,0 +1,6 @@
+{
+  "client_id": "sVydbbM3oLnbr8YN05Teg7T5h8q9jk17",
+  "client_secret": "Pf8oxNU0fyzFkhdEZwQXgf9TzVvdsm-cnSBFoJ0D3aOpjyqKozR_fmRlBttjbH8f",
+  "audience": "https://holafly-m2m-services-pre",
+  "grant_type": "client_credentials"
+}
